@@ -1,8 +1,9 @@
-### Hello, World! 👋 I'm [Your Name]!
-- 🚀 I’m on a mission to learn coding and explore the vast universe of technology!
-- 🌱 Currently diving deep into [Technology or Language you're learning].
-- 🎨 Fun fact: When I'm not coding, I love [Fun Activity].
-
+### Hello, World! 👋 I'm Syed Zaidi!
+- 🎓 I'm a student majoring in Computer Science.
+- 🚀 Currently diving deep into Python Programming and Web Developement.
+- 📚 I'm passionate about applying what I learn to solve real-world problems.
+- 🎨 Fun fact: When I'm not coding, I am either eating or cooking, or else playing soccer.
+- 
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -15,18 +16,18 @@
 - Solving problems with Python.
 - Understanding the basics of Git and GitHub.
 
-### 💡 I'm open to:
-- Collaboration on beginner-friendly projects.
+### 👯 Let's Collaborate!
+- I’m looking to collaborate on beginner-friendly projects.
 - Tips and resources from fellow coders.
 - Sharing what I learn as I go!
 
 
-### 📫 Reach out to me:
+### 📫 How to Reach Me:
 - Send me an email at ali.zai1di360@gmail.com 💌
 - Connect with me on LinkedIn, https://www.linkedin.com/in/syed-zaidi-bb250522b/ 💼
 
-### ⚡ My Motto:
-"Show GOD The Beauty of His Creation."
+### ⚡ My FAV Quote:
+"Show GOD The Beauty of His Creation." - TATE
 
 ![](https://komarev.com/ghpvc/?username=yourGitHubUsername&color=blueviolet)
 

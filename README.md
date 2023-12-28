@@ -3,7 +3,7 @@
 - 🚀 Currently diving deep into Python Programming and Web Developement.
 - 📚 I'm passionate about applying what I learn to solve real-world problems.
 - 🎨 Fun fact: When I'm not coding, I am either eating or cooking, or else playing soccer.
-- 
+  
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)

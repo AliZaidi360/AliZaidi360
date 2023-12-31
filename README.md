@@ -30,7 +30,3 @@
 
 ### ⚡ My FAV Quote:
 "Show GOD The Beauty of His Creation." - TATE
-
-![](https://komarev.com/ghpvc/?username=yourGitHubUsername&color=blueviolet)
-
-

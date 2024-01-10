@@ -15,12 +15,13 @@
 
 
 ### 🌟 What I'm Learning:
-- Building my first website with HTML & CSS.
+- Learning Data Structures and Algorithms.
+- Building my Portfolio using HTML & CSS.
 - Solving problems with Python.
-- Understanding the basics of Git and GitHub.
+- Creating Projects.
 
 ### 👯 Let's Collaborate!
-- I’m looking to collaborate on beginner-friendly projects.
+- I’m looking to collaborate on projects.
 - Tips and resources from fellow coders.
 - Sharing what I learn as I go!
 

@@ -1,8 +1,8 @@
 ### Hello, World! 👋 I'm Syed Zaidi!
 - 🎓 I'm a student majoring in Computer Science.
-- 🚀 Currently diving deep into Python Programming and Web Developement.
+- 🚀 Currently diving deep into Devops and AI.
 - 📚 I'm passionate about applying what I learn to solve real-world problems.
-- 🎨 Fun fact: When I'm not coding, I am either eating or cooking, or else playing soccer.
+- 🎨 When I'm not coding, I am busy with writting poetry, if not that then enjoying shows on netflix or else at the gym.
   
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -15,10 +15,9 @@
 
 
 ### 🌟 What I'm Learning:
-- Learning Data Structures and Algorithms.
-- Building my Portfolio using HTML & CSS.
-- Solving problems with Python.
-- Creating Projects.
+- Learning Devops.
+- Solving DSA problems with Python.
+- Creating cool Projects.
 
 ### 👯 Let's Collaborate!
 - I’m looking to collaborate on projects.
